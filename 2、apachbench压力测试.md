@@ -38,7 +38,7 @@ Waiting:       11  196 412.7     68    1637
 Total:         20  257 434.9    104    1666
 
 Percentage of the requests served within a certain time (ms)
-  50%    104       #50%的请求处理时间在1毫秒左右
+  50%    104       #50%的请求处理时间在100毫秒左右
   66%    140
   75%    146
   80%    152

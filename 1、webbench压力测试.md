@@ -30,9 +30,9 @@ yum install ctags
 webbench -c 1000 -t 30 http://www.tanwan.com/
 ```
 
-> ### -c是指并发数
+> **-c是指并发数**
 
-> ### -t是指请求时间
+> **-t是指请求时间**
 
 #### 请求结果
 ```
@@ -40,4 +40,4 @@ Speed=24920 pages/min, 21037312 bytes/sec.
 Requests: 24833 susceed, 87 failed.
 ```
 
-> ### 主要看是否有失败数，有的话说明网站超过负荷了
+> **主要看是否有失败数，有的话说明网站超过负荷了**
